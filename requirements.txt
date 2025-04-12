@@ -1,0 +1,12 @@
+pandas
+flask
+shap
+streamlit
+joblib
+requests
+lightgbm
+seaborn
+matplotlib
+xplotter
+streamlit-shap
+ipython
