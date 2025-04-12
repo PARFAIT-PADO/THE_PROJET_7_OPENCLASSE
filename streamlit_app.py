@@ -120,7 +120,7 @@ elif page == pages[2]:
     
 elif page == pages[3]:    
     st.write("### :red[Analyses globales]")   
-    st.write("##### Notre analyse algorithmique scinde nos :blue[clients en 5 groupes]")
+    st.write("##### Notre analyse algorithmique scinde nos :blue[clients en 3 groupes]")
     fig, ax = plt.subplots(figsize=(6, 4))
     plot_aggregation(df=data_groupes,
                  group_col='classe_clients',
